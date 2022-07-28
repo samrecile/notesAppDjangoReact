@@ -5,13 +5,10 @@ This was a CRUD project I built a while back to help me get a better understandi
 
 Features include:
 - Post/delete a note without refreshing browser
--
 
 ### Built With
 -	Django
 - React
-- Postgresql
-- Heroku
 
 ## Getting Started
 
