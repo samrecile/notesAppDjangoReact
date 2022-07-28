@@ -27,4 +27,5 @@ Project link: https://github.com/samrecile/notesAppDjangoReact
 
 ## Acknowledgments & Resources
 -https://docs.djangoproject.com/en/4.0/
+-https://www.django-rest-framework.org/
 -https://reactjs.org/docs/getting-started.html
